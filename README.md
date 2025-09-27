@@ -1,4 +1,4 @@
-# JHANVI_week 1
+# JHANVI_week1
 <details>
 	<summary>Day 0 - Tools Installation </summary>
 	
